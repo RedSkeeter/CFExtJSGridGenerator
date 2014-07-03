@@ -1,0 +1,9 @@
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\bin\Debug\ExtJSGridGenerator.exe
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\bin\Debug\ExtJSGridGenerator.pdb
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\bin\Debug\ExtJSGridGenerator.xml
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\obj\x86\Debug\ExtJSGridGenerator.Form1.resources
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\obj\x86\Debug\ExtJSGridGenerator.Resources.resources
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\obj\x86\Debug\ExtJSGridGenerator.vbproj.GenerateResource.Cache
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\obj\x86\Debug\ExtJSGridGenerator.exe
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\obj\x86\Debug\ExtJSGridGenerator.xml
+C:\Work\Code\ExtJSGridGenerator\ExtJSGridGenerator\obj\x86\Debug\ExtJSGridGenerator.pdb
